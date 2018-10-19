@@ -2,12 +2,12 @@ from enum import Enum
 from peewee import PostgresqlDatabase, Model
 import json
 
-token = '47f9342a0767d358-7be9201a856b9132-dd0645dd704dc0c'
+token = '<token here>'
 
 db = PostgresqlDatabase(
-    database='d9r2fbaqjqm03n',
-    user='nvpxjyazjaukzl',
-    password='3bc6d35180897c67d46391aa7a32941fc46f53c1029cd57601cb8a31f0bb920d',
+    database='<database name here>',
+    user='<username here>',
+    password='<password here>',
     host='ec2-54-235-252-23.compute-1.amazonaws.com',
     port=5432
 )
