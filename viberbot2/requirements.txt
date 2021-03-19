@@ -6,7 +6,7 @@ future==0.16.0
 gunicorn==19.8.1
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 peewee==3.5.0
 psycopg2==2.7.4
